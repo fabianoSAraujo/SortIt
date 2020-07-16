@@ -1,0 +1,14 @@
+
+    body {
+        margin: 0;
+        font-family: "Montserrat", sans-serif;
+      }
+
+ .logo {
+     width: 130px;
+ }     
+
+.container {
+    text-align: center;
+    padding: 0.8rem 1.2rem;
+  }
